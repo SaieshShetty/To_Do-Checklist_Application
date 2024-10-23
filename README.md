@@ -1,0 +1,2 @@
+# To_Do-Checklist_Application
+ This is a simple and efficient To-Do application built using TypeScript, HTML, and vanilla CSS for the frontend. The app allows users to create, manage, and track their tasks in an intuitive and user-friendly interface. With a focus on clean code and minimal dependencies, this project demonstrates the power of TypeScript in handling front-end logic while maintaining a lightweight structure with plain HTML and CSS.
